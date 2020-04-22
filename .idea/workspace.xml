@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54cabac3-e47d-4fec-b51d-a0cb02827b43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/doubly_linked_list/doubly_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/doubly_linked_list/doubly_linked_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lru_cache/doubly_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/lru_cache/doubly_linked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lru_cache/lru_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/lru_cache/lru_cache.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,19 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queue_and_stack/dll_queue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lru_cache/lru_cache.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="364">
+              <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -35,8 +25,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lru_cache/doubly_linked_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="99" column="11" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="21" />
+            <state relative-caret-position="-248">
+              <caret line="67" column="45" lean-forward="true" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lru_cache/test_lru_cache.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,7 +61,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
-    <option name="height" value="1040" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -110,76 +112,84 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_queue.py">
-    <configuration name="dll_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Data-Structures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue_and_stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue_and_stack/dll_stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_add_to_tail" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_lru_cache.py">
+    <configuration name="Unittests for test_lru_cache.CacheTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubly_linked_list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_doubly_linked_list.DoublyLinkedListTests.test_list_add_to_tail&quot;" />
+      <option name="_new_target" value="&quot;test_lru_cache.CacheTests&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_doubly_linked_list.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubly_linked_list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/doubly_linked_list/test_doubly_linked_list.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_lru_cache.CacheTests.test_cache_insertion_and_retrieval&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_queue.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_nonexistent_retrieval" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue_and_stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/queue_and_stack/test_queue.py&quot;" />
+      <option name="_new_target" value="&quot;test_lru_cache.CacheTests.test_cache_nonexistent_retrieval&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_overwrite_appropriately" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lru_cache.CacheTests.test_cache_overwrite_appropriately&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_lru_cache.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lru_cache/test_lru_cache.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_queue.py" />
-        <item itemvalue="Python.dll_stack" />
-        <item itemvalue="Python tests.Unittests in test_doubly_linked_list.py" />
-        <item itemvalue="Python tests.Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_add_to_tail" />
+        <item itemvalue="Python tests.Unittests in test_lru_cache.py" />
+        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" />
+        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests.test_cache_nonexistent_retrieval" />
+        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests.test_cache_overwrite_appropriately" />
+        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests" />
       </list>
     </recent_temporary>
   </component>
@@ -197,41 +207,53 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_doubly_linked_list_DoublyLinkedListTests_test_list_add_to_tail - 2020.04.19 at 08h 13m 25s.xml">
-      <configuration name="Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_add_to_tail" configurationId="tests" />
+    <history-entry file="Unittests_for_test_lru_cache_CacheTests - 2020.04.21 at 16h 48m 36s.xml">
+      <configuration name="Unittests for test_lru_cache.CacheTests" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_doubly_linked_list_DoublyLinkedListTests_test_list_add_to_tail - 2020.04.19 at 08h 13m 48s.xml">
-      <configuration name="Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_add_to_tail" configurationId="tests" />
+    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 16h 54m 16s.xml">
+      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_doubly_linked_list_DoublyLinkedListTests_test_list_add_to_tail - 2020.04.19 at 08h 14m 16s.xml">
-      <configuration name="Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_add_to_tail" configurationId="tests" />
+    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 17m 42s.xml">
+      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_doubly_linked_list_py - 2020.04.19 at 08h 14m 35s.xml">
-      <configuration name="Unittests in test_doubly_linked_list.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 27m 00s.xml">
+      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_doubly_linked_list_py - 2020.04.19 at 08h 53m 14s.xml">
-      <configuration name="Unittests in test_doubly_linked_list.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_overwrite_appropriately - 2020.04.21 at 17h 27m 08s.xml">
+      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_overwrite_appropriately" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_queue_py - 2020.04.21 at 08h 24m 36s.xml">
-      <configuration name="Unittests in test_queue.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_insertion_and_retrieval - 2020.04.21 at 17h 27m 12s.xml">
+      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_nonexistent_retrieval - 2020.04.21 at 17h 27m 17s.xml">
+      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_nonexistent_retrieval" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_insertion_and_retrieval - 2020.04.21 at 17h 27m 20s.xml">
+      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 33m 23s.xml">
+      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 33m 45s.xml">
+      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1040" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28952992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32855567" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32603937" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296582" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -239,18 +261,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3261105" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32855567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296582" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -273,15 +295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lru_cache/test_lru_cache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -323,22 +336,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/queue_and_stack/dll_queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="30" />
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lru_cache/doubly_linked_list.py">
+    <entry file="file://Z:/Program Files (x86)/Python/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="99" column="11" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="21" />
+        <state relative-caret-position="194">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lru_cache/lru_cache.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        <state relative-caret-position="364">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lru_cache/doubly_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="67" column="45" lean-forward="true" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lru_cache/test_lru_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
