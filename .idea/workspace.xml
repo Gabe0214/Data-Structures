@@ -13,20 +13,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lru_cache/lru_cache.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binary_search_tree/binary_search_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="1853">
+              <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/binary_search_tree/binary_search_tree.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queue_and_stack/dll_stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+            <state relative-caret-position="391">
+              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary_search_tree/test_binary_search_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,7 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,6 +95,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,84 +113,84 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_lru_cache.py">
-    <configuration name="Unittests for test_lru_cache.CacheTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals">
+    <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_contains" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lru_cache.CacheTests&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search_tree.BinarySearchTreeTests.test_contains&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_for_each" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lru_cache.CacheTests.test_cache_insertion_and_retrieval&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search_tree.BinarySearchTreeTests.test_for_each&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_nonexistent_retrieval" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_get_max" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lru_cache.CacheTests.test_cache_nonexistent_retrieval&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search_tree.BinarySearchTreeTests.test_get_max&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_overwrite_appropriately" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lru_cache.CacheTests.test_cache_overwrite_appropriately&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search_tree.BinarySearchTreeTests.test_print_traversals&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_lru_cache.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_binary_search_tree.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lru_cache" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lru_cache/test_lru_cache.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/binary_search_tree/test_binary_search_tree.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_lru_cache.py" />
-        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" />
-        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests.test_cache_nonexistent_retrieval" />
-        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests.test_cache_overwrite_appropriately" />
-        <item itemvalue="Python tests.Unittests for test_lru_cache.CacheTests" />
+        <item itemvalue="Python tests.Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals" />
+        <item itemvalue="Python tests.Unittests in test_binary_search_tree.py" />
+        <item itemvalue="Python tests.Unittests for test_binary_search_tree.BinarySearchTreeTests.test_for_each" />
+        <item itemvalue="Python tests.Unittests for test_binary_search_tree.BinarySearchTreeTests.test_get_max" />
+        <item itemvalue="Python tests.Unittests for test_binary_search_tree.BinarySearchTreeTests.test_contains" />
       </list>
     </recent_temporary>
   </component>
@@ -196,47 +208,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 16h 54m 16s.xml">
-      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 14h 04m 32s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 17m 42s.xml">
-      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 15h 01m 03s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 27m 00s.xml">
-      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_print_traversals - 2020.04.23 at 15h 01m 13s.xml">
+      <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_overwrite_appropriately - 2020.04.21 at 17h 27m 08s.xml">
-      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_overwrite_appropriately" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 15h 05m 29s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_insertion_and_retrieval - 2020.04.21 at 17h 27m 12s.xml">
-      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 15h 06m 02s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_nonexistent_retrieval - 2020.04.21 at 17h 27m 17s.xml">
-      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_nonexistent_retrieval" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 15h 06m 24s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_lru_cache_CacheTests_test_cache_insertion_and_retrieval - 2020.04.21 at 17h 27m 20s.xml">
-      <configuration name="Unittests for test_lru_cache.CacheTests.test_cache_insertion_and_retrieval" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 15h 06m 47s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 33m 23s.xml">
-      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 15h 07m 56s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 33m 45s.xml">
-      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_binary_search_tree_py - 2020.04.23 at 15h 08m 15s.xml">
+      <configuration name="Unittests in test_binary_search_tree.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_lru_cache_py - 2020.04.21 at 17h 38m 04s.xml">
-      <configuration name="Unittests in test_lru_cache.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_print_traversals - 2020.04.23 at 15h 08m 47s.xml">
+      <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19871795" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32603937" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3249453" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,18 +262,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14278187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32603937" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32502708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -299,13 +311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/queue_and_stack/dll_stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/queue_and_stack/test_queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -323,27 +328,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/queue_and_stack/dll_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://Z:/Program Files (x86)/Python/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lru_cache/test_lru_cache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -372,15 +360,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lru_cache/lru_cache.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        <state relative-caret-position="-9">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lru_cache/test_lru_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue_and_stack/dll_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search_tree/test_binary_search_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue_and_stack/dll_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_search_tree/binary_search_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        <state relative-caret-position="1853">
+          <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
         </state>
       </provider>
     </entry>
